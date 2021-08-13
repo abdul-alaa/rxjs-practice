@@ -2,7 +2,10 @@
   "name": "js",
   "version": "0.0.0",
   "private": true,
+  "scripts": {
+    "start":"http-server"
+  },
   "dependencies": {
-    "rxjs": "^7.3.0"
+    "http-server": "^13.0.0"
   }
 }
